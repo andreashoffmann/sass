@@ -4,5 +4,5 @@ This repository is about SASS examples.
 
 ## Setup
 
-* Install packages with ´npm install´
-* Start webserver with ´gulp´
+* Install packages with `npm install`
+* Start webserver with `gulp`
